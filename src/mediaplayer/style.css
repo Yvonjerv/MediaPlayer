@@ -1,0 +1,16 @@
+
+#openFile{
+    -fx-background-image: url("../images/folder.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#playButton{
+    -fx-background-image: url("../images/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#root{
+    -fx-background-color: linear-gradient(to top right, #264ee2 ,#25d1dc);
+}
